@@ -1,5 +1,5 @@
 - 👋 Hello! I’m Srijan Dawn.
-- 👀 I’m interested in Programming & 
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning B.Tech. (I.T.) in RCCIIT.
 - 💞️ I’m looking to collaborate on Coding and web dev.
 - 📫 How to reach me:-  Phone: 7439317805
